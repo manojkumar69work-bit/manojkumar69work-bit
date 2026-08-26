@@ -1,6 +1,6 @@
 # Manoj Kumar 
 
-**Third-year CSE student who ships.** Full-stack products running in production on free tiers — FastAPI + PostgreSQL backends, Next.js frontends, LLM and speech pipelines. Python-first.
+**CSE student who ships.** Full-stack products running in production on free tiers — FastAPI + PostgreSQL backends, Next.js frontends, LLM and speech pipelines. Python-first.
 
 📍 Hyderabad, India · 📧 [manojkumar69.work@gmail.com](mailto:manojkumar69.work@gmail.com)
 
